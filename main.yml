@@ -1,0 +1,6 @@
+---
+- hosts: localhost
+  tasks:
+    - name: Create Bucket S3
+    amazon.aws.s3_bucket:
+      name: my-bucket-infra-test

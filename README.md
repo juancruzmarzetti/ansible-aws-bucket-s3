@@ -14,8 +14,8 @@ Running this YAML file with "ansible-playbook", when you should have previously 
 # Puedes ejecutar esto:
 
 Descargando:
--Boto3.
--Python3.
+- Boto3.
+- Python3.
 - CLI de AWS.
 
 Creando:
